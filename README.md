@@ -2,6 +2,16 @@
 
 PUBH 7462 project
 
+**About Weather App !!!**
+
+There are three base datasets for this application, which include:
+
+1.  City_Info: This dataset includes information about four famous spots for each city.
+
+2.  CityGeo: This dataset includes geographical information for each city, which helps to link the dataset to the map in this app.
+
+3.  weather_new: This dataset consists of two years of records of the weather conditions for 29 cities in the US.
+
 **What's new !!!**
 
 1.  We imported the weather condition data for totally 29 selected cities (New York, Los Angeles, etc.) from April 30th 2022 to April 30th 2023.
